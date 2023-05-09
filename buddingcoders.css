@@ -1,0 +1,132 @@
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	/* text-align: center; */
+	background-image: url("./abstract-3840x2160-dark-3d-geometry-4k-24201.jpg");
+	font-size: 25px;
+}
+
+nav {
+	background-color: #ddd;
+	padding: 10px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	
+}
+
+li {
+	float: left;
+}
+
+
+li a {
+	display: block;
+	color: #333;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25px;
+	display: flex;
+}
+
+li a:hover {
+	background-color: #555;
+	color: #fff;
+}
+
+main {
+	padding: 20px;
+}
+
+body
+{
+	
+}
+head
+{
+	
+}
+footer {
+	color:white;
+	padding: 20px;
+	/* text-align: center; */
+	background-color:#555;
+	/* background-image: url("./ice-3840x2160-white-winter-abstract-4k-23273\ \(1\).jpg"); */
+	font-weight: bolder;
+}
+
+
+ul {
+  list-style-type: circle;
+  padding-left: 20px;
+}
+
+li {
+  font-size: 16px;
+  line-height: 1.5;
+  }
+
+.contacts div
+{
+	padding:50%;
+}
+.contact-details a
+{
+	color: white !important;
+	text-decoration: none;
+	margin-right:500px;
+	margin-left: 500px;
+	font-size: 15px !important;
+	
+	
+}
+
+/* Hide the dropdown menu by default */
+.dropdown-menu {
+	display: none;
+	position: absolute;
+	z-index: 1;
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Show the dropdown menu when the parent li element is hovered */
+  .dropdown:hover .dropdown-menu {
+	display: block;
+  }
+  footer
+  {
+	padding: 10px;
+  }
+  footer a
+  {
+		font-size: 28px !important;
+  }
+  .para
+  {
+	text-indent: 125px;
+	line-height:40px;
+	text-align: justify;
+	font-size: 25px;
+  }
+  .sideheading:hover
+  {
+	color:rgb(116, 107, 107);
+  }
+  
+  footer div a
+  {
+	color:white;
+	text-decoration: none;
+	display: block;
+	padding-bottom: 7px !important;
+	font-size: 20px;
+  }
